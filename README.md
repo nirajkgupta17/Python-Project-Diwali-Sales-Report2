@@ -1,12 +1,12 @@
-@Diwali Sales Report – Data Visualization Project
+# Diwali Sales Report – Data Visualization Project
 
--Project Overview
+# Project Overview
 
 The Diwali Sales Analysis Report was developed using Python (Pandas, Matplotlib, and Seaborn) to analyze customer purchasing behavior during the festive season. The objective was to identify key sales trends, high-performing customer segments, and revenue-driving product categories.
 
 The project involved data cleaning, exploratory data analysis (EDA), and visual storytelling through interactive and insightful visualizations.
 
-* Tools & Technologies Used
+# Tools & Technologies Used
 
 Python
 
@@ -18,7 +18,8 @@ Matplotlib – Custom chart formatting and styling
 
 Jupyter Notebook
 
-📊 Key Analysis & Insights
+# Key Analysis & Insights
+
 1️⃣ Sales by Gender
 
 Female customers contributed significantly higher revenue compared to male customers.
