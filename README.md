@@ -74,6 +74,3 @@ Food category generated the maximum revenue.
 
 Visualization Used: Sorted Bar Plot
 
-
-
-🧹 Data Cleaning Steps Performed
